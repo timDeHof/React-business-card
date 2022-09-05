@@ -1,6 +1,5 @@
 import React from "react";
 import Me from "../assets/me-final.png";
-import { DiGithubBadge } from "react-icons/di";
 import { MdEmail } from "react-icons/md";
 import { BsLinkedin } from "react-icons/bs";
 const Info = () => {
